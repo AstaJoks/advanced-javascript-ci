@@ -1,6 +1,6 @@
-# Arrow Functions
+# Advanced Javascript Code Institute
 
 To use this repository:
 - Click the "Use this template" button in the upper right
 - Choose a name for your repository and create it
-- In your own repository, click the green "Gitpod" button
+- In your own repository, click the purple "Codeanywhere" button
